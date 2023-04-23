@@ -1,4 +1,4 @@
-# STREAM IP GEOLOCATION
+# Location Detector
 
 ### Installing
 
